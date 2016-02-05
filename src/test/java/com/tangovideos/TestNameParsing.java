@@ -50,7 +50,7 @@ public class TestNameParsing {
                 .put("tRNJUtAhsQU", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
                 .put("4HYwJWt3kC8", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
                 .put("sbuqfkU2mTI", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
-                .put("nh01sq6-eoo", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
+                .put("nh01sq6-eoo", ImmutableSet.of("Pablo Rodriguez", "Corina Herrera"))
                 .put("JwcXVRzSU5Q", ImmutableSet.of("Pablo Rodriguez", "Corina Herrera"))
                 .put("EnhyK1b1zMw", ImmutableSet.of("Pablo Rodriguez", "Corina Herrera"))
                 .put("IqXR9F1exEI", ImmutableSet.of("Pablo Rodriguez", "Mariana Dragone"))
