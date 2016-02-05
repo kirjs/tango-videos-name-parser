@@ -1,0 +1,75 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/UuWk8Cmq-Y4_KVDcnwDQ6wogk9I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/bAPW2yZNaHwPb47oaudsiPkuxWs\"",
+   "id": "_kJD7txuWrA",
+   "snippet": {
+    "publishedAt": "2015-05-25T20:38:49.000Z",
+    "channelId": "UCMqloOngsYEQFDdUtgzJU6A",
+    "title": "Sebastian Jimenez y Maria Ines Bogado, Timisoara Tango Festival 2015  1",
+    "description": "Sebastian Jimenez y Maria Ines Bogado Timisoara Tango Festival 2015",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_kJD7txuWrA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_kJD7txuWrA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_kJD7txuWrA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Popa Florian",
+    "tags": [
+     "Sebastian Jimenez",
+     "Maria Ines Bogado",
+     "Timisoara Tango Festival 2015",
+     "Timisoara Tango Festival"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Sebastian Jimenez y Maria Ines Bogado, Timisoara Tango Festival 2015  1",
+     "description": "Sebastian Jimenez y Maria Ines Bogado Timisoara Tango Festival 2015"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "4875",
+    "likeCount": "22",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "relevantTopicIds": [
+     "/m/01m_5v",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

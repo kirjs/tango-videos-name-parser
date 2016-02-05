@@ -1,0 +1,86 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/wLIoNEqSMh1ic2wNrb3Kw8ht2H0\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/yzQQWJyOVE2sdYbBCgGoZvyXcxo\"",
+   "id": "wi9Mp1RYjyI",
+   "snippet": {
+    "publishedAt": "2010-12-21T13:24:42.000Z",
+    "channelId": "UCfdidUXnncqPjBXxyE3ixnw",
+    "title": "Sebastián Jiménez y María Inés Bogado - \"Paciencia\"",
+    "description": "Los Campeones del Mundo de Tango Salón del 2010, Sebastián Jiménez y María Inés Bogado, bailan el tango \"Paciencia\" por la Orquesta de Juan D´ Arienzo y la voz de Alberto Echagüe, en el VIII ENCUENTRO DE AFICIONADOS AL TANGO 2010 Organizado por el Club Tango Comunidad de Valenciana, en el Hotel Olympia de Alboraya - Valencia (España), el pasado 29/11/2010",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wi9Mp1RYjyI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wi9Mp1RYjyI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wi9Mp1RYjyI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wi9Mp1RYjyI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wi9Mp1RYjyI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "juanayjulio",
+    "tags": [
+     "Paciencia"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Sebastián Jiménez y María Inés Bogado - \"Paciencia\"",
+     "description": "Los Campeones del Mundo de Tango Salón del 2010, Sebastián Jiménez y María Inés Bogado, bailan el tango \"Paciencia\" por la Orquesta de Juan D´ Arienzo y la voz de Alberto Echagüe, en el VIII ENCUENTRO DE AFICIONADOS AL TANGO 2010 Organizado por el Club Tango Comunidad de Valenciana, en el Hotel Olympia de Alboraya - Valencia (España), el pasado 29/11/2010"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false
+   },
+   "statistics": {
+    "viewCount": "127443",
+    "likeCount": "267",
+    "dislikeCount": "11",
+    "favoriteCount": "0",
+    "commentCount": "12"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/017_qw",
+     "/m/026bk",
+     "/m/026bk",
+     "/m/05nj3v",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

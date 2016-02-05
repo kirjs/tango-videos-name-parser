@@ -1,0 +1,96 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/_aygeXpj04JcHB16pqfToWv29po\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/PusUsG50ZnnlvmXEN2P-KHtEWrc\"",
+   "id": "ZKnlIpDe15M",
+   "snippet": {
+    "publishedAt": "2015-11-15T04:09:20.000Z",
+    "channelId": "UC172QSuuYaPQLj7oIixODyw",
+    "title": "Pablo Inza and Sofia Saborido in Warsaw (HD)",
+    "description": "Tango performance of Palbo Inza and Sofia Saborido in Warsaw\nLet us stay in touch: www.facebook.com/TANGOPOEMAT\nTANGOPOEMAT TV production, 14th November 2015",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZKnlIpDe15M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZKnlIpDe15M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZKnlIpDe15M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZKnlIpDe15M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "TANGOPOEMAT",
+    "tags": [
+     "pablo inza",
+     "sofia saborido",
+     "pablo and sofia",
+     "pablo inza in warsaw",
+     "pablo inza in poland",
+     "pablo inza w warszawie",
+     "natasza i masoud",
+     "tangopoemat tv",
+     "tangopoemat",
+     "natasza and masoud",
+     "Tango (Musical Genre)",
+     "tango w warszawie",
+     "tango w polsce",
+     "tango in warsaw",
+     "argentine tango in warsaw",
+     "pablo inza and sofia saborido in warsaw",
+     "Warsaw (City/Town/Village)",
+     "Poland (Country)"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Inza and Sofia Saborido in Warsaw (HD)",
+     "description": "Tango performance of Palbo Inza and Sofia Saborido in Warsaw\nLet us stay in touch: www.facebook.com/TANGOPOEMAT\nTANGOPOEMAT TV production, 14th November 2015"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "427",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/081m_"
+    ],
+    "relevantTopicIds": [
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/fGvMKvPkBWU1IKeFmvODOWSlqfQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/wrV9QS-e0Ha7oyd9AQufd4MeEQo\"",
+   "id": "PS91okv4uHE",
+   "snippet": {
+    "publishedAt": "2015-11-22T18:26:34.000Z",
+    "channelId": "UC2LyNJ-DMc3u7xN9ka-Bygg",
+    "title": "Le donne Belle - Domenico Modugno - Maria Filali y Gianpiero Galdi",
+    "description": "Bonus Performance regalato dai Maestri Maria Filali e Gianpiero Galdi, agli spettatori presenti al teatro Espace di Torino, fortunati testimoni di questa meravigliosa e divertente milonga interpretata da un euforico Gianpiero ed una meravigliosa Maria! Godetevela!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PS91okv4uHE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PS91okv4uHE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PS91okv4uHE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PS91okv4uHE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PS91okv4uHE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Crazyfortango",
+    "tags": [
+     "Le donne Belle",
+     "Domenico Modugno (Musical Artist)",
+     "Maria Filali",
+     "Gianpiero Galdi",
+     "Alex Marley",
+     "Crazyfortango",
+     "Tango",
+     "Argentina (Country)",
+     "Milonga (Musical Genre)",
+     "Torino",
+     "Turin (Italian Comune)",
+     "Take The Lead (Film)",
+     "Antonio Banderas (Celebrity)"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "it",
+    "localized": {
+     "title": "Le donne Belle - Domenico Modugno - Maria Filali y Gianpiero Galdi",
+     "description": "Bonus Performance regalato dai Maestri Maria Filali e Gianpiero Galdi, agli spettatori presenti al teatro Espace di Torino, fortunati testimoni di questa meravigliosa e divertente milonga interpretata da un euforico Gianpiero ed una meravigliosa Maria! Godetevela!"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1404",
+    "likeCount": "10",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01ncgyv"
+    ],
+    "relevantTopicIds": [
+     "/m/01m_5v",
+     "/m/01qq2k",
+     "/m/04rlf",
+     "/m/064t9"
+    ]
+   }
+  }
+ ]
+}

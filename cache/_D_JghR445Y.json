@@ -1,0 +1,92 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/_7zHYGBMeFTzb0P_dlkIy1-0j6w\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/arvCT7D1swjBuUY90OjJgPsBO2w\"",
+   "id": "_D_JghR445Y",
+   "snippet": {
+    "publishedAt": "2012-05-15T02:26:31.000Z",
+    "channelId": "UCxyVAbhqegeVltI72-HqpXA",
+    "title": "Fausto Carpino e Stephanie Fesneau. Mariposa a Cesena. 2",
+    "description": "Mariposa, Cesena 12 Maggio 2012 - Viento Norte, Orquestra Tipica Victor\nFausto Carpino e Stephanie Fesneau ospiti a Cesena (Mariposa) e Bologna (Tpo) per due giorni di workshop, esibizione e milonga.\nA cura di HOTango - Agnese Franceschi e Christian Santi; \nTangoff - Emmanuelle Ponthieux.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_D_JghR445Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_D_JghR445Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_D_JghR445Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_D_JghR445Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_D_JghR445Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "3gege",
+    "tags": [
+     "Fausto",
+     "Carpino",
+     "Stephanie",
+     "Fesneau",
+     "Mariposa",
+     "tango",
+     "Cesena"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Fausto Carpino e Stephanie Fesneau. Mariposa a Cesena. 2",
+     "description": "Mariposa, Cesena 12 Maggio 2012 - Viento Norte, Orquestra Tipica Victor\nFausto Carpino e Stephanie Fesneau ospiti a Cesena (Mariposa) e Bologna (Tpo) per due giorni di workshop, esibizione e milonga.\nA cura di HOTango - Agnese Franceschi e Christian Santi; \nTangoff - Emmanuelle Ponthieux."
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "6805",
+    "likeCount": "22",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/0sjxhrg"
+    ],
+    "relevantTopicIds": [
+     "/m/01skw1v",
+     "/m/01qq2k",
+     "/m/020h3n",
+     "/m/0d6n1",
+     "/m/0193r0",
+     "/m/01m_5v",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}

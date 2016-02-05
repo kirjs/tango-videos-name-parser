@@ -1,0 +1,71 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/oa51HxF1-f5ILlT5WMs95Jz0seg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/jdJwkYCOjGtN8XwbTD36hBZpx2A\"",
+   "id": "izHGohLz4jw",
+   "snippet": {
+    "publishedAt": "2015-11-24T23:34:05.000Z",
+    "channelId": "UC9hBvYb8fU9ENjEtJIlJIew",
+    "title": "Pablo Inza y Sofia Saborido a La Mariposa_FULL SHOW",
+    "description": "Pablo Inza y Sofia Saborido bailan en La Mariposa (Milano-Italy)\n0:23 - Vamos - Carlos Di Sarli\n3:26 - La Espuela - Manuel Pizarro\n6:33 - Dicha Pasada - Miguel Montero\n10:30 - Lo que vieron - Francisco Lomuto",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/izHGohLz4jw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/izHGohLz4jw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/izHGohLz4jw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Raffaella Grassi",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Inza y Sofia Saborido a La Mariposa_FULL SHOW",
+     "description": "Pablo Inza y Sofia Saborido bailan en La Mariposa (Milano-Italy)\n0:23 - Vamos - Carlos Di Sarli\n3:26 - La Espuela - Manuel Pizarro\n6:33 - Dicha Pasada - Miguel Montero\n10:30 - Lo que vieron - Francisco Lomuto"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1380",
+    "likeCount": "10",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "relevantTopicIds": [
+     "/m/01qbmhh",
+     "/m/01m_5v",
+     "/m/01vl6ms",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

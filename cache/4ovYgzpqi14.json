@@ -1,0 +1,111 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/FsFy9D4oXxRZcaeSKAm4lruHbAo\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/ovNYgwmW6zJlctR4ljZFo8cLgHM\"",
+   "id": "4ovYgzpqi14",
+   "snippet": {
+    "publishedAt": "2014-12-11T10:11:40.000Z",
+    "channelId": "UCfWM4BFxk4QLMsM9aJHCkEg",
+    "title": "STM'14, Welcome Milonga. Sebastian Jimenez y Maria Ines Bogado, Javier Rodriguez y Noelia Barsi",
+    "description": "3rd Shanghai Tango Marathon, November 13-16, 2014\nWelcome Milonga\nWelcome show by Masters:\nSebastian Ariel Jimenez y Maria Ines Bogado\nJavier Rodriguez y Noelia Barsi\n“La Bruja” Orchestra: Juan D'Arienzo, canta: Alberto Echaque\n\nwww.shanghaitangomarathon.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ovYgzpqi14/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ovYgzpqi14/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ovYgzpqi14/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4ovYgzpqi14/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4ovYgzpqi14/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tango Go",
+    "tags": [
+     "Shanghai",
+     "Tango",
+     "Marathon",
+     "2014",
+     "Dance",
+     "Show",
+     "Argentine",
+     "China",
+     "Go",
+     "TangoGo",
+     "Javier",
+     "Rodriguez",
+     "Noelia",
+     "Barsi",
+     "Sebasian",
+     "Ariel",
+     "Jimenez",
+     "Maria",
+     "Ines",
+     "Bogado",
+     "Masters",
+     "Welcome",
+     "Salon"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "STM'14, Welcome Milonga. Sebastian Jimenez y Maria Ines Bogado, Javier Rodriguez y Noelia Barsi",
+     "description": "3rd Shanghai Tango Marathon, November 13-16, 2014\nWelcome Milonga\nWelcome show by Masters:\nSebastian Ariel Jimenez y Maria Ines Bogado\nJavier Rodriguez y Noelia Barsi\n“La Bruja” Orchestra: Juan D'Arienzo, canta: Alberto Echaque\n\nwww.shanghaitangomarathon.com"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "12046",
+    "likeCount": "30",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/0nbtg98"
+    ],
+    "relevantTopicIds": [
+     "/m/01qq2k",
+     "/m/01q2v7s",
+     "/m/026bk",
+     "/m/01mqhp2",
+     "/m/026bk",
+     "/m/05nj3v",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

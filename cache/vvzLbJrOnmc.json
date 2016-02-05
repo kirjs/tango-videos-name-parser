@@ -1,0 +1,120 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/2uvSagmCvPIxOQAhvmK_QTwbvsM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/JCr0Ex0uEbFgAs9-Ap6V58kirys\"",
+   "id": "vvzLbJrOnmc",
+   "snippet": {
+    "publishedAt": "2014-12-01T16:16:39.000Z",
+    "channelId": "UC2m7kza71x306eDN9t8AKMg",
+    "title": "Tango-Vals \"Flor de Lino\". María Inés Bogado & Sebastián Jiménez with \"Solo Tango\" orchestra. Танго",
+    "description": "Tango-Vals \"Flor de Lino\" (Héctor Stamponi). Introducing María Inés Bogado and Sebastián Jiménez. \nWe offer a video clip from the show-concert \"PLANETANGO ХIII» held in Moscow. November 02, 2014.  \nSign to the channel in order not to pass the following publications -http://www.youtube.com/channel/UC2m7kza71x306eDN9t8AKMg\nТанго-вальс \"Flor de Lino\" (Héctor Stamponi). Представляем пару Мария Инес Богадо и Себастьян Хименес. \nПредлагаем видео ролик с шоу-концерта «ПЛАНЕТАНГО ХIII», проходившем в Москве 2 ноября 2014 года.\nПодпишитесь на канал, чтобы не пропустить следующие публикации -http://www.youtube.com/channel/UC2m7kza71x306eDN9t8AKMg",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vvzLbJrOnmc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vvzLbJrOnmc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vvzLbJrOnmc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vvzLbJrOnmc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vvzLbJrOnmc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Тенгиз Мосидзе",
+    "tags": [
+     "Tango (Sport)",
+     "Vals",
+     "Russia",
+     "Moscow",
+     "María",
+     "Inés",
+     "Bogado",
+     "Sebastián",
+     "Jiménez",
+     "Solo Tango",
+     "orchestra",
+     "orquestra",
+     "orquesta",
+     "PLANETANGO",
+     "2014",
+     "Tengiz Mosidze",
+     "танго",
+     "вальс",
+     "Россия",
+     "Москва",
+     "Мария",
+     "Инес",
+     "Богадо",
+     "Себастьян",
+     "Хименес",
+     "ПЛАНЕТАНГО",
+     "Тенгиз Мосидзе",
+     "концерт",
+     "смотреть",
+     "слушать",
+     "show",
+     "Соло Танго",
+     "оркестр"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Tango-Vals \"Flor de Lino\". María Inés Bogado & Sebastián Jiménez with \"Solo Tango\" orchestra. Танго",
+     "description": "Tango-Vals \"Flor de Lino\" (Héctor Stamponi). Introducing María Inés Bogado and Sebastián Jiménez. \nWe offer a video clip from the show-concert \"PLANETANGO ХIII» held in Moscow. November 02, 2014.  \nSign to the channel in order not to pass the following publications -http://www.youtube.com/channel/UC2m7kza71x306eDN9t8AKMg\nТанго-вальс \"Flor de Lino\" (Héctor Stamponi). Представляем пару Мария Инес Богадо и Себастьян Хименес. \nПредлагаем видео ролик с шоу-концерта «ПЛАНЕТАНГО ХIII», проходившем в Москве 2 ноября 2014 года.\nПодпишитесь на канал, чтобы не пропустить следующие публикации -http://www.youtube.com/channel/UC2m7kza71x306eDN9t8AKMg"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "124969",
+    "likeCount": "321",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "17"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/07xh4y"
+    ],
+    "relevantTopicIds": [
+     "/m/081js",
+     "/m/0d6n1",
+     "/m/05pd6",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

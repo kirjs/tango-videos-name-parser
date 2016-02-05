@@ -1,0 +1,93 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/rOYFPusKCFh6XuvfY5RPRMGIAnU\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/Lp5VzdoAJa_hnhXIddmeBOvB4gU\"",
+   "id": "MoDjiGsqBJU",
+   "snippet": {
+    "publishedAt": "2015-10-24T11:54:07.000Z",
+    "channelId": "UC2LyNJ-DMc3u7xN9ka-Bygg",
+    "title": "Palabras Amargas - J.D'Arienzo feat. A. Laborde - M.Filali Y G.Galdi",
+    "description": "Secondo brano in esibizione di Maria Filali e Gianpiero Galdi, presso la nuova milonga Cafè Dominguez a Milano. \nBrano energico e dinamico, come solo Gianpiero sa creare!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MoDjiGsqBJU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MoDjiGsqBJU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MoDjiGsqBJU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MoDjiGsqBJU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MoDjiGsqBJU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Crazyfortango",
+    "tags": [
+     "Palabras Amargas",
+     "Juan D'Arienzo (Musical Artist)",
+     "Armando Laborde",
+     "Tango (Musical Genre)",
+     "Argentina (Country)",
+     "Milonga",
+     "Milonga (Musical Genre)",
+     "Marleygt",
+     "Alex Marley",
+     "Crazyfortango",
+     "Gianpiero Galdi",
+     "Maria Filali"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Palabras Amargas - J.D'Arienzo feat. A. Laborde - M.Filali Y G.Galdi",
+     "description": "Secondo brano in esibizione di Maria Filali e Gianpiero Galdi, presso la nuova milonga Cafè Dominguez a Milano. \nBrano energico e dinamico, come solo Gianpiero sa creare!"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "271",
+    "likeCount": "3",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01q2v7s",
+     "/m/01qq2k",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}

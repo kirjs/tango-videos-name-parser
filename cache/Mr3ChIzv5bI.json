@@ -1,0 +1,99 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/8oGV8UbuC_yQy_TWQMjX_Zfp-Xw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/z8HakoiP0CW8X1v35m0ZOi-qTt0\"",
+   "id": "Mr3ChIzv5bI",
+   "snippet": {
+    "publishedAt": "2015-07-28T17:03:01.000Z",
+    "channelId": "UCJqujtHM2wFaXNDUa56jLTA",
+    "title": "Gianpiero ya Galdi y Maria Filali 3",
+    "description": "Gianpiero ya Galdi y Maria Filali-3 \nLA SANTA DIABOLIKA 2015 - 12ed. Genoa Tango Marathon Now Every summer in the month of july looking for “La Santa Diabolika” … in a very big terrace on the sea, we dance Tango Argentino three days all together. Where is possible eat, drink, swim, dance and enjoying of a beautiful site. \nAss. TiTANGO Genova\nwww.titango.it \nsergio.chiave@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mr3ChIzv5bI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mr3ChIzv5bI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mr3ChIzv5bI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Milonga Brava - Festival Bravo - Genoa Tango Marathon",
+    "tags": [
+     "Gianpiero ya Galdi y Maria Filali",
+     "Gianpiero",
+     "Galdi",
+     "Maria",
+     "Filali",
+     "Sergio Chiaverini",
+     "Francesca brandi",
+     "Sergio y Francesca",
+     "Genova Tango",
+     "Genoa Tango Marathon",
+     "Maratona Tango Genova",
+     "Tango Genova Quinto",
+     "Scuola Stabile Tango Genova",
+     "Danza genova",
+     "Festival Bravo",
+     "Tango Marathon",
+     "EXPO",
+     "EXPO Tango",
+     "Milonga Brava",
+     "Associazione TiTANGo",
+     "TITANGO",
+     "Ti TANGO"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Gianpiero ya Galdi y Maria Filali 3",
+     "description": "Gianpiero ya Galdi y Maria Filali-3 \nLA SANTA DIABOLIKA 2015 - 12ed. Genoa Tango Marathon Now Every summer in the month of july looking for “La Santa Diabolika” … in a very big terrace on the sea, we dance Tango Argentino three days all together. Where is possible eat, drink, swim, dance and enjoying of a beautiful site. \nAss. TiTANGO Genova\nwww.titango.it \nsergio.chiave@gmail.com"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2169",
+    "likeCount": "12",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/03tl15"
+    ],
+    "relevantTopicIds": [
+     "/m/026bk",
+     "/m/01qq2k",
+     "/m/0hknf",
+     "/m/026bk",
+     "/m/05nj3v",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

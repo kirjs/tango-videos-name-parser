@@ -1,0 +1,85 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/CpcD3g9veXl2f-mMjUQDc9sZ6yE\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/x3OrWp_tlcFVEb772MOq9prdILs\"",
+   "id": "Ztt5B5yxGpQ",
+   "snippet": {
+    "publishedAt": "2015-10-24T11:54:11.000Z",
+    "channelId": "UC2LyNJ-DMc3u7xN9ka-Bygg",
+    "title": "Temo - Orquesta Tipica Victor - Maria Filali Y Gianpiero Galdi",
+    "description": "Terzo brano dello show di Maria Filali e Gianpiero Galdi, sulle note di uno dei vals più belli della storia del tango. \nLa Milonga ospite è il Cafè Dominguez a Milano.\nGodetevelo!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ztt5B5yxGpQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ztt5B5yxGpQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ztt5B5yxGpQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Crazyfortango",
+    "tags": [
+     "Temo",
+     "Tango (Musical Genre)",
+     "Orquesta Típica Victor (Musical Group)",
+     "Maria Filali",
+     "Gianpiero Galdi",
+     "Milonga (Musical Genre)",
+     "Tango (Sport)",
+     "Argentina (Country)",
+     "Crazyfortango",
+     "Alex Marley"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Temo - Orquesta Tipica Victor - Maria Filali Y Gianpiero Galdi",
+     "description": "Terzo brano dello show di Maria Filali e Gianpiero Galdi, sulle note di uno dei vals più belli della storia del tango. \nLa Milonga ospite è il Cafè Dominguez a Milano.\nGodetevelo!"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1192",
+    "likeCount": "10",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01skw1v"
+    ],
+    "relevantTopicIds": [
+     "/m/01m_5v",
+     "/m/01qq2k",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}
