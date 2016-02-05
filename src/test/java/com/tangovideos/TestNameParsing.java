@@ -43,10 +43,15 @@ public class TestNameParsing {
                 .put("4ovYgzpqi14", ImmutableSet.of("Sebastian Jimenez", "Maria Ines Bogado", "Javier Rodriguez", "Noelia Barsi"))
                 .put("rgnBgLXK2xg", ImmutableSet.of("Maria del Carmen Romero", "Jorge Dispari"))
                 // Names in the description
-                .put("ACdCdvamIO4", ImmutableSet.of("Kalganova Eleonora","Michael Nadtochi"))
-                .put("2f4hR4TJ-Wg", ImmutableSet.of("Kalganova Eleonora","Michael Nadtochi"))
-                .put("_D_JghR445Y", ImmutableSet.of("Stephanie Fesneau","Fausto Carpino"))
-                .put("v-vnXfQB9og", ImmutableSet.of("Stephanie Fesneau","Fausto Carpino"))
+                .put("ACdCdvamIO4", ImmutableSet.of("Kalganova Eleonora", "Michael Nadtochi"))
+                .put("2f4hR4TJ-Wg", ImmutableSet.of("Kalganova Eleonora", "Michael Nadtochi"))
+                .put("_D_JghR445Y", ImmutableSet.of("Stephanie Fesneau", "Fausto Carpino"))
+                .put("v-vnXfQB9og", ImmutableSet.of("Stephanie Fesneau", "Fausto Carpino"))
+                .put("tRNJUtAhsQU", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
+                .put("4HYwJWt3kC8", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
+                .put("nh01sq6-eoo", ImmutableSet.of("Pablo Rodriguez", "Noelia Hurtado"))
+                .put("JwcXVRzSU5Q", ImmutableSet.of("Pablo Rodriguez", "Corina Herrera "))
+                .put("EnhyK1b1zMw", ImmutableSet.of("Pablo Rodriguez", "Corina Herrera "))
                 .build();
 
         data = expected.keySet()
@@ -70,7 +75,6 @@ public class TestNameParsing {
     public String pad(String s, int n) {
         return String.format("%" + (n) + "s", s);
     }
-
 
 
     @Test

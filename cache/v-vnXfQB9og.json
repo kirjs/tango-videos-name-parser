@@ -1,0 +1,89 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/b54IuRHd2d4I_RkP52wgxeKwRsQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/jY3AnWT9RdR0MDqbrhyPm2bEjNs\"",
+   "id": "v-vnXfQB9og",
+   "snippet": {
+    "publishedAt": "2012-04-15T13:13:40.000Z",
+    "channelId": "UC96MXSb0CbF95vb18d15hag",
+    "title": "Fausto Carpino e Stephanie Fesneau. Milonga Sì #4. Maldonado",
+    "description": "Milonga Sì, Bologna 14-15 aprile 2012\nwww.milongasi.it \nFausto Carpino e Stephanie Fesneau ospiti a Bologna per due giorni di workshop, esibizioni e milonga fino a notte fonda.\nA cura di Flora Benedetti e associazione Rafanàs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v-vnXfQB9og/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v-vnXfQB9og/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v-vnXfQB9og/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v-vnXfQB9og/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v-vnXfQB9og/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "annademanincor",
+    "tags": [
+     "Fausto",
+     "Carpino",
+     "Stephanie",
+     "Fesneau",
+     "Milonga",
+     "Sì",
+     "Bologna"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Fausto Carpino e Stephanie Fesneau. Milonga Sì #4. Maldonado",
+     "description": "Milonga Sì, Bologna 14-15 aprile 2012\nwww.milongasi.it \nFausto Carpino e Stephanie Fesneau ospiti a Bologna per due giorni di workshop, esibizioni e milonga fino a notte fonda.\nA cura di Flora Benedetti e associazione Rafanàs"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "9462",
+    "likeCount": "30",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01qq2k"
+    ],
+    "relevantTopicIds": [
+     "/m/01m_5v",
+     "/m/04rlf",
+     "/m/0g293",
+     "/m/0210vc"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/c6aSBi5krBNo2Q0kjh_Wukgt1vc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/hiyiGeS4YmrKpbnj2VvodEadmT0\"",
+   "id": "4HYwJWt3kC8",
+   "snippet": {
+    "publishedAt": "2010-08-29T07:38:12.000Z",
+    "channelId": "UCtBxJsF2AKhPgFSN2MAetUQ",
+    "title": "Pablo Rodriguez y Noelia Hurtado - NYC Practilonga Mini-Fest 2010 #4",
+    "description": "Buty do tańca @ www.milenadanceshoes.com !!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4HYwJWt3kC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4HYwJWt3kC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4HYwJWt3kC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4HYwJWt3kC8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4HYwJWt3kC8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ducatidoc",
+    "tags": [
+     "Pablo",
+     "Rodriguez",
+     "Noelia",
+     "Hurtado",
+     "Tango"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Rodriguez y Noelia Hurtado - NYC Practilonga Mini-Fest 2010 #4",
+     "description": "Buty do tańca @ www.milenadanceshoes.com !!!"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "38618",
+    "likeCount": "93",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "3"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/02_286"
+    ],
+    "relevantTopicIds": [
+     "/m/01gq53",
+     "/m/064t9",
+     "/m/064t9",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}

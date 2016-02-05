@@ -1,0 +1,97 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/ERpLCmBV_bU0HsHPEjhG6kvzR0M\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/Hzu5YtlwVtaTLZEeO_AY3-lagVI\"",
+   "id": "tRNJUtAhsQU",
+   "snippet": {
+    "publishedAt": "2011-07-15T14:12:00.000Z",
+    "channelId": "UCjyRBSBGMEFq4Fs5deIXQ_g",
+    "title": "Pablo Rodriguez y Noelia Hurtado Tango Invierno en La Baldosa Julio 2011",
+    "description": "http://www.2xtango.com/pablo-rodriguez-y-noelia-hurtado-en-la-milonga-la-baldosa-2/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tRNJUtAhsQU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tRNJUtAhsQU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tRNJUtAhsQU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tRNJUtAhsQU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tRNJUtAhsQU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "2XTANGO TV",
+    "tags": [
+     "tango",
+     "argentino",
+     "milonga",
+     "canaro",
+     "buenos",
+     "aires",
+     "argentina"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Rodriguez y Noelia Hurtado Tango Invierno en La Baldosa Julio 2011",
+     "description": "http://www.2xtango.com/pablo-rodriguez-y-noelia-hurtado-en-la-milonga-la-baldosa-2/"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "204557",
+    "likeCount": "565",
+    "dislikeCount": "26",
+    "favoriteCount": "0",
+    "commentCount": "61"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/026bk",
+     "/m/0d6n1",
+     "/m/01nb50r",
+     "/m/064t9",
+     "/m/01qq2k",
+     "/m/026bk",
+     "/m/05nj3v",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5",
+     "/m/064t9",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}
