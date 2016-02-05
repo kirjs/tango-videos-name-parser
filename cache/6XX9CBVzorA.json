@@ -1,0 +1,85 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/MwtmtVXOapJvEM4HJsh5Pc5ga64\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/YIhoNnL9pNsurfqm-0PgKl09taY\"",
+   "id": "6XX9CBVzorA",
+   "snippet": {
+    "publishedAt": "2015-02-24T19:05:15.000Z",
+    "channelId": "UCNHDVofUoPP0e82VR5Krunw",
+    "title": "Noelia y Carlitos  TANGO EN PUNTA Uruguay 2015",
+    "description": "Noelia & Carlitos cerraron las exhibiciones en las milongas de Tango en Punta\n\nCon otra tanda de notables exhibiciones se cerró el festival de inclusión Tango en Punta Uruguay 2015 el domingo 22 de febrero en el Cantegril Country Club.\n\nNoelia Hurtado y Carlitos Espinoza nos deleitaron a todos quienes nos quedamos hasta el final de un festival extraordinario.\n\nCompartimos el inicio de su exhibición.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6XX9CBVzorA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6XX9CBVzorA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6XX9CBVzorA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6XX9CBVzorA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6XX9CBVzorA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tango en Punta",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Noelia y Carlitos  TANGO EN PUNTA Uruguay 2015",
+     "description": "Noelia & Carlitos cerraron las exhibiciones en las milongas de Tango en Punta\n\nCon otra tanda de notables exhibiciones se cerró el festival de inclusión Tango en Punta Uruguay 2015 el domingo 22 de febrero en el Cantegril Country Club.\n\nNoelia Hurtado y Carlitos Espinoza nos deleitaron a todos quienes nos quedamos hasta el final de un festival extraordinario.\n\nCompartimos el inicio de su exhibición."
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "8613",
+    "likeCount": "14",
+    "dislikeCount": "5",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01qq2k",
+     "/m/01mqhp2",
+     "/m/07twz",
+     "/m/01xyk_",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/YOti3kKaByZOJuW4yLx2_X7MnNA\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/3JYJZhIMawQfdrk5bSLEmWy3yH4\"",
+   "id": "9gcgHx9FJ2U",
+   "snippet": {
+    "publishedAt": "2014-06-30T14:22:34.000Z",
+    "channelId": "UCtBxJsF2AKhPgFSN2MAetUQ",
+    "title": "Carlitos & Noelia (1/5) - Rome Tango Meeting 2014",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9gcgHx9FJ2U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9gcgHx9FJ2U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9gcgHx9FJ2U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9gcgHx9FJ2U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9gcgHx9FJ2U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ducatidoc",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Carlitos & Noelia (1/5) - Rome Tango Meeting 2014",
+     "description": ""
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "55463",
+    "likeCount": "155",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "9"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01mqhp2",
+     "/m/04rlf",
+     "/m/0g293",
+     "/m/0210vc"
+    ]
+   }
+  }
+ ]
+}

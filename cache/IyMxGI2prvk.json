@@ -1,0 +1,92 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/tSrOdZkhrPlBnO2w3qh-2tqEpOI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/35YtUR8qOQYN_mFIuFkAokX9_Bg\"",
+   "id": "IyMxGI2prvk",
+   "snippet": {
+    "publishedAt": "2015-06-19T19:25:33.000Z",
+    "channelId": "UCPSEBKNWfeUQR22qpdYAIgg",
+    "title": "13/06/2015 Abrazodelmar - Noelia Hurtado y Carlitos Espinoza #3/5",
+    "description": "If you enjoy the work (video), please support it: http://thomasconte.net/tango/donate/\n\nNoelia Hurtado y Carlitos Espinoza: https://www.facebook.com/noelia.carlitos\nAbrazodelmar: http://www.abrazodelmar.com/- http://www.be-tango.com/\nTC's tango photos and videos: http://thomasconte.net/tango/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IyMxGI2prvk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IyMxGI2prvk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IyMxGI2prvk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IyMxGI2prvk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IyMxGI2prvk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "TC Tango",
+    "tags": [
+     "Noelia Hurtado",
+     "Carlos Espinoza",
+     "Carlitos Espinoza",
+     "Abrazodelmar",
+     "Blankenberge (City/Town/Village)",
+     "Tango",
+     "Tango (Musical Genre)",
+     "Dance (Interest)"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "13/06/2015 Abrazodelmar - Noelia Hurtado y Carlitos Espinoza #3/5",
+     "description": "If you enjoy the work (video), please support it: http://thomasconte.net/tango/donate/\n\nNoelia Hurtado y Carlitos Espinoza: https://www.facebook.com/noelia.carlitos\nAbrazodelmar: http://www.abrazodelmar.com/- http://www.be-tango.com/\nTC's tango photos and videos: http://thomasconte.net/tango/"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "22030",
+    "likeCount": "78",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01mqhp2",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

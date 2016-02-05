@@ -1,0 +1,88 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/zdAlLaOwJy4ySkbz8WqYAidy-qc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/z0VWygyIaThNQtvknVb2_BRqpsY\"",
+   "id": "IqXR9F1exEI",
+   "snippet": {
+    "publishedAt": "2014-05-20T14:08:07.000Z",
+    "channelId": "UCk6d9KTAMucA1KPiKrLSR4A",
+    "title": "Pablo Rodriguez et Mariana Dragone, \"Dichas que vivi\" (valse).",
+    "description": "Enregistré le 16 mai 2014, au \"Pavillon Sherbrooke de l'université du Québec à Montréal\", situé à Montréal (Québec), lors du festival de tango \"Bailongo Montréal\".\nLa pièce musicale \"Dichas que vivi\", composée par José Lupi, est jouée par l'orchestre de Rodolfo Biagi, chantée par Andrés Falgas, sur des paroles de Luis Lupi, et fut enregistrée en 1939. ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IqXR9F1exEI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IqXR9F1exEI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IqXR9F1exEI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IqXR9F1exEI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IqXR9F1exEI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "tangogaga",
+    "tags": [
+     "Pablo Rodriguez",
+     "Mariana Dragone",
+     "Dichas que vivi",
+     "Bailongo Montréal"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Rodriguez et Mariana Dragone, \"Dichas que vivi\" (valse).",
+     "description": "Enregistré le 16 mai 2014, au \"Pavillon Sherbrooke de l'université du Québec à Montréal\", situé à Montréal (Québec), lors du festival de tango \"Bailongo Montréal\".\nLa pièce musicale \"Dichas que vivi\", composée par José Lupi, est jouée par l'orchestre de Rodolfo Biagi, chantée par Andrés Falgas, sur des paroles de Luis Lupi, et fut enregistrée en 1939."
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false
+   },
+   "statistics": {
+    "viewCount": "26270",
+    "likeCount": "80",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "5"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/017w5qs",
+     "/m/01m_5v",
+     "/m/081js",
+     "/m/09bx2m"
+    ],
+    "relevantTopicIds": [
+     "/m/05khsy",
+     "/m/01rtwj5",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/6lexhR5QIeJ5RuW55jVhXUqMK9I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/gd0EQB-idSwaDc5PNMgbveUqUjg\"",
+   "id": "IkZQGa9i31Q",
+   "snippet": {
+    "publishedAt": "2014-08-23T20:52:26.000Z",
+    "channelId": "UC38Tzsm6oIaQbc2TF7p_N9g",
+    "title": "NOELIA COLETTI Y PABLO GIORGINI en el Sin Rumbo \"Nochero Soy\" (Pugliese)",
+    "description": "Bailan! Noelia Coletti y Pablo Giorgini\nTango: \"Nochero Soy\" (Orquesta de Osvaldo Pugliese)\nLocación: Sin Rumbo (Viernes, JP Tamborini 6157, Villa Urquiza)\nFecha: 22.Agosto.2014\nFilmación y Edición: http://junandomilongas.com.ar",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IkZQGa9i31Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IkZQGa9i31Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IkZQGa9i31Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Junando Milongas",
+    "tags": [
+     "junando milongas",
+     "tango",
+     "tango argentino",
+     "Osvaldo Pugliese (Musical Artist)",
+     "Nochero Soy (Musical Recording)",
+     "NOELIA COLETTI",
+     "PABLO GIORGINI",
+     "SIN RUMBO",
+     "SIN RUMBO MILONGA",
+     "MILONGA SIN RUMBO"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "NOELIA COLETTI Y PABLO GIORGINI en el Sin Rumbo \"Nochero Soy\" (Pugliese)",
+     "description": "Bailan! Noelia Coletti y Pablo Giorgini\nTango: \"Nochero Soy\" (Orquesta de Osvaldo Pugliese)\nLocación: Sin Rumbo (Viernes, JP Tamborini 6157, Villa Urquiza)\nFecha: 22.Agosto.2014\nFilmación y Edición: http://junandomilongas.com.ar"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "887",
+    "likeCount": "12",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/01l1psv"
+    ],
+    "relevantTopicIds": [
+     "/m/01mqhp2",
+     "/m/017x0c0",
+     "/m/01qq2k",
+     "/m/04rlf",
+     "/m/0g293",
+     "/m/0210vc"
+    ]
+   }
+  }
+ ]
+}

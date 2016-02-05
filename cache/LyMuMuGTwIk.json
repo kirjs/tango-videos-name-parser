@@ -1,0 +1,86 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/rd-j2w0WITx4lUUiaQph9G9rY4E\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/S9a7vwvA_fy4dSL4esxXT2ckt60\"",
+   "id": "LyMuMuGTwIk",
+   "snippet": {
+    "publishedAt": "2015-01-14T19:42:29.000Z",
+    "channelId": "UC47UVQSnunEsdxqqvgeG6YA",
+    "title": "Tango Elelement presents Mariano \"Chicho\" Frumboli & Juana Sepulveda in NYC 2015",
+    "description": "Chicho & Juana performing at the New York City All Night Milonga by Sarah La Rocca January 10, 2015 (1/5)\n\nVideo by Linus Sun",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LyMuMuGTwIk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LyMuMuGTwIk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LyMuMuGTwIk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tango Element",
+    "tags": [
+     "Mariano Frúmboli (Film Actor)",
+     "tango",
+     "chicho",
+     "chicho and juana",
+     "chicho tango",
+     "chicho & juana nyc",
+     "tango element",
+     "mariano chicho frumboli",
+     "chicho frumboli and juana sepulveda",
+     "juana sepulveda",
+     "nyc all night milonga"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Tango Elelement presents Mariano \"Chicho\" Frumboli & Juana Sepulveda in NYC 2015",
+     "description": "Chicho & Juana performing at the New York City All Night Milonga by Sarah La Rocca January 10, 2015 (1/5)\n\nVideo by Linus Sun"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "24766",
+    "likeCount": "84",
+    "dislikeCount": "4",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/027b0_d",
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/02_286",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

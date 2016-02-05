@@ -1,0 +1,85 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/YDkZyRIT53szDDcdFW393vJQ1jw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/KZbXAafCMDoXo0UmAn-euhchSIQ\"",
+   "id": "JwcXVRzSU5Q",
+   "snippet": {
+    "publishedAt": "2015-11-17T15:36:24.000Z",
+    "channelId": "UCHk-zthwsDc-_1xDMMm36NQ",
+    "title": "ARTETANGO 2015 - Pablo Rodriguez et Corina Herrera - ALBI",
+    "description": "Pablo Rodriguez et Corina Herrera - Festival ARTETANGO 2015 à ALBI - 31 oct 2015 -  tango 1 \"La vi llegar \" Anibal Troilo - Alberto Marino - mise en ligne ATA - captation Estampa",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JwcXVRzSU5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JwcXVRzSU5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JwcXVRzSU5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JwcXVRzSU5Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JwcXVRzSU5Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "claire prouhet",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "ARTETANGO 2015 - Pablo Rodriguez et Corina Herrera - ALBI",
+     "description": "Pablo Rodriguez et Corina Herrera - Festival ARTETANGO 2015 à ALBI - 31 oct 2015 -  tango 1 \"La vi llegar \" Anibal Troilo - Alberto Marino - mise en ligne ATA - captation Estampa"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2021",
+    "likeCount": "8",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/0ffrw_7",
+     "/m/0x3vp2x",
+     "/m/09bx2m",
+     "/m/0ps16",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/4ssLLqKsFtJzYRSFCKwCHqwY1yg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/azPbBbtvWnw45MpSP7SkZOq5ZaM\"",
+   "id": "FTlwZ_3cAQs",
+   "snippet": {
+    "publishedAt": "2015-10-21T11:48:13.000Z",
+    "channelId": "UCqpFCNLiQphb6JN1JToT1mg",
+    "title": "Diego “El Pajaro” Riemer & Natalia Cristobal Rivé (Milonga). Kiev International Tango Festival 2015",
+    "description": "www.TangoFestival.com.ua  Kiev, Ukraine, October 15-18, 2015",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FTlwZ_3cAQs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FTlwZ_3cAQs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FTlwZ_3cAQs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FTlwZ_3cAQs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FTlwZ_3cAQs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "O Orel",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Diego “El Pajaro” Riemer & Natalia Cristobal Rivé (Milonga). Kiev International Tango Festival 2015",
+     "description": "www.TangoFestival.com.ua  Kiev, Ukraine, October 15-18, 2015"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1419",
+    "likeCount": "7",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/01qq2k"
+    ],
+    "relevantTopicIds": [
+     "/m/02sn34",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

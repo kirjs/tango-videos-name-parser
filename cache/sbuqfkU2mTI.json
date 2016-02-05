@@ -1,0 +1,74 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/70pciyO-DG3373r6s4bCx8txwiQ\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/WrLkjw5FDAXwfRtLLNevRS2FDuw\"",
+   "id": "sbuqfkU2mTI",
+   "snippet": {
+    "publishedAt": "2008-03-31T10:11:01.000Z",
+    "channelId": "UCgsWNcxSRZICCx5b0hiV8fw",
+    "title": "Pablo y Noelia - 3",
+    "description": "30/03/2998\r\nMoscow Russia",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sbuqfkU2mTI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sbuqfkU2mTI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sbuqfkU2mTI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "7in1",
+    "tags": [
+     "tango",
+     "milonga"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo y Noelia - 3",
+     "description": "30/03/2998\r\nMoscow Russia"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "7539",
+    "likeCount": "25",
+    "dislikeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "7"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/01mqhp2"
+    ],
+    "relevantTopicIds": [
+     "/m/064t9",
+     "/m/064t9",
+     "/m/04rlf"
+    ]
+   }
+  }
+ ]
+}

@@ -29,42 +29,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppproachTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
+      <file leaf-file-name="TestNameParsing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="60" />
+              <caret line="66" column="91" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
               <folding>
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#617#647#0" expanded="true" />
+                <element signature="e#4847#4848#0" expanded="true" />
+                <element signature="e#4880#4881#0" expanded="true" />
+                <element signature="e#4922#4923#0" expanded="true" />
+                <element signature="e#4978#4979#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="282A-FHZyf8.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/282A-FHZyf8.json">
+      <file leaf-file-name="6XX9CBVzorA.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cache/6XX9CBVzorA.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.041667">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestNameParsing.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java">
+      <file leaf-file-name="6XCia7vEk3I.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cache/6XCia7vEk3I.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81389576">
-              <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#617#647#0" expanded="true" />
-                <element signature="e#3660#3661#0" expanded="true" />
-                <element signature="e#3693#3694#0" expanded="true" />
-                <element signature="e#3735#3736#0" expanded="true" />
-                <element signature="e#3791#3792#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-1.0686016">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sbuqfkU2mTI.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cache/sbuqfkU2mTI.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,16 +136,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Multiset.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/google/collections/google-collections/1.0/google-collections-1.0.jar!/com/google/common/collect/Multiset.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.0740743">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -168,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachOne.java" />
+        <option value="$PROJECT_DIR$/cache/sbuqfkU2mTI.json" />
         <option value="$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java" />
       </list>
     </option>
@@ -732,7 +730,7 @@
       <created>1454543848744</created>
       <option name="number" value="Default" />
       <updated>1454543848744</updated>
-      <workItem from="1454543850127" duration="17348000" />
+      <workItem from="1454543850127" duration="18275000" />
     </task>
     <servers />
   </component>
@@ -769,7 +767,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17348000" />
+    <option name="totallyTimeSpent" value="18275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="24" width="1260" height="734" extended-state="0" />
@@ -951,8 +949,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="60" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1029,18 +1027,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cache/sbuqfkU2mTI.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81389576">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="91" selection-start-line="66" selection-start-column="91" selection-end-line="66" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#617#647#0" expanded="true" />
-            <element signature="e#3660#3661#0" expanded="true" />
-            <element signature="e#3693#3694#0" expanded="true" />
-            <element signature="e#3735#3736#0" expanded="true" />
-            <element signature="e#3791#3792#0" expanded="true" />
+            <element signature="e#4847#4848#0" expanded="true" />
+            <element signature="e#4880#4881#0" expanded="true" />
+            <element signature="e#4922#4923#0" expanded="true" />
+            <element signature="e#4978#4979#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/6XX9CBVzorA.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/6XCia7vEk3I.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0686016">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

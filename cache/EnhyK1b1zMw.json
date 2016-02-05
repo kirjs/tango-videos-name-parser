@@ -1,0 +1,79 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/vTW_ZMCBUYoNhUgoHMq4Sn9R0Ac\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/mASuhEKEzOrv_E6s1mChK2vAcCc\"",
+   "id": "EnhyK1b1zMw",
+   "snippet": {
+    "publishedAt": "2015-02-23T21:43:28.000Z",
+    "channelId": "UCNdEZa696S-jUWBDbSBQrbg",
+    "title": "Pablo Rodriguez & Corina Herrera 2/4",
+    "description": "At Frostbite milonga in Helsinki     http://frostbite.tango.fi/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EnhyK1b1zMw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EnhyK1b1zMw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EnhyK1b1zMw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EnhyK1b1zMw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EnhyK1b1zMw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "LeenaTango",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Pablo Rodriguez & Corina Herrera 2/4",
+     "description": "At Frostbite milonga in Helsinki     http://frostbite.tango.fi/"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "701",
+    "likeCount": "2",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "relevantTopicIds": [
+     "/m/01m_5v",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

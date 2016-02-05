@@ -1,0 +1,85 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/6fRYOsgB8NJ9CdHaLGV8XanBUPM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/RvhnZWSVk475gN5FmyxGn-SAfs8\"",
+   "id": "NBj_PV_87SQ",
+   "snippet": {
+    "publishedAt": "2011-08-25T08:14:09.000Z",
+    "channelId": "UCEPmZf1D93OucX5s2NYdezw",
+    "title": "Chico Frumboli and Juana Sepulveda",
+    "description": "Chicho and Juana, Performance #1 at Antipanico Festival, San Francisco,  August 7, 2011, Courtesy of Tango Renaissance, USA (www.antipanicosf.com).  Musica: Francisco Canaro - La Galarcita - 1941 Quinteto Pirincho",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NBj_PV_87SQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NBj_PV_87SQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NBj_PV_87SQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NBj_PV_87SQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "yonseiSF",
+    "tags": [
+     "Chicho",
+     "Juana",
+     "Tango",
+     "Antipanico",
+     "2011"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Chico Frumboli and Juana Sepulveda",
+     "description": "Chicho and Juana, Performance #1 at Antipanico Festival, San Francisco,  August 7, 2011, Courtesy of Tango Renaissance, USA (www.antipanicosf.com).  Musica: Francisco Canaro - La Galarcita - 1941 Quinteto Pirincho"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "102968",
+    "likeCount": "287",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "23"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/027b0_d",
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01nb50r",
+     "/m/026bk",
+     "/m/02jjt",
+     "/m/05qjc",
+     "/m/01ws5",
+     "/m/05nj3v"
+    ]
+   }
+  }
+ ]
+}

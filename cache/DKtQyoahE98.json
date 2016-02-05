@@ -1,0 +1,86 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/BXwKFMkJu3lNePZhdDVtbNX6rGI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/QqXPGFrEzQe9UDAGI9ee8rE2oyo\"",
+   "id": "DKtQyoahE98",
+   "snippet": {
+    "publishedAt": "2014-01-24T22:21:36.000Z",
+    "channelId": "UCGu3zVgr4ys1d_Rykd7owqg",
+    "title": "Francisco Canaro - Milonga Brava  (Tango Elegance)",
+    "description": "Sebastian Achaval & Roxana Suarez are dancing.\n\nTango is a dance full of passion, tension and vigor, tells everyone. The collision of two emotions can be even brutal. But tango may be other, as evidenced by this pair of dancers. Tango in their execution is light and airy, as a feather lifted by the wind, and they themselves seem to flow as if carried by a wide wave on a calm ocean.\n\nTango, to taniec pełen namiętności, napięcia i wigoru, powie każdy. W zderzeniu dwóch emocji może być nawet brutalne. Ale tango może być też inne, jak dowodzi tego ta para tancerzy. Tango w ich wykonaniu jest lekkie i zwiewne, jak unoszone z wiatrem piórko, a oni sami zdają się płynąć, jakby niesieni na silnej acz spokojnej fali oceanu. \n\nDISCLAIMER: The video takes used in the clip and music are copyrighted to their respective owners. No infringement intended.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DKtQyoahE98/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DKtQyoahE98/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DKtQyoahE98/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DKtQyoahE98/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "VidMak",
+    "tags": [
+     "tango",
+     "milonga",
+     "milonga brava",
+     "roxanne",
+     "argentina",
+     "buenos aires",
+     "Caution - it's Tango!"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Francisco Canaro - Milonga Brava  (Tango Elegance)",
+     "description": "Sebastian Achaval & Roxana Suarez are dancing.\n\nTango is a dance full of passion, tension and vigor, tells everyone. The collision of two emotions can be even brutal. But tango may be other, as evidenced by this pair of dancers. Tango in their execution is light and airy, as a feather lifted by the wind, and they themselves seem to flow as if carried by a wide wave on a calm ocean.\n\nTango, to taniec pełen namiętności, napięcia i wigoru, powie każdy. W zderzeniu dwóch emocji może być nawet brutalne. Ale tango może być też inne, jak dowodzi tego ta para tancerzy. Tango w ich wykonaniu jest lekkie i zwiewne, jak unoszone z wiatrem piórko, a oni sami zdają się płynąć, jakby niesieni na silnej acz spokojnej fali oceanu. \n\nDISCLAIMER: The video takes used in the clip and music are copyrighted to their respective owners. No infringement intended."
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "215117",
+    "likeCount": "833",
+    "dislikeCount": "24",
+    "favoriteCount": "0",
+    "commentCount": "43"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/01qq2k",
+     "/m/0dz1j9h",
+     "/m/01nb50r"
+    ],
+    "relevantTopicIds": [
+     "/m/04rlf",
+     "/m/0210vc",
+     "/m/0g293"
+    ]
+   }
+  }
+ ]
+}
