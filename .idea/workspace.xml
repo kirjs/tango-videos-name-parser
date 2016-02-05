@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11d99131-3102-42a1-8856-c27a2df89fd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app.iml" afterPath="$PROJECT_DIR$/my-app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" afterPath="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" />
     </list>
     <ignored path="my-app.iws" />
@@ -67,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.40942928">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -734,7 +736,7 @@
       <created>1454543848744</created>
       <option name="number" value="Default" />
       <updated>1454543848744</updated>
-      <workItem from="1454543850127" duration="18667000" />
+      <workItem from="1454543850127" duration="18718000" />
     </task>
     <servers />
   </component>
@@ -771,7 +773,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18667000" />
+    <option name="totallyTimeSpent" value="18718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="24" width="1260" height="734" extended-state="0" />
@@ -1066,7 +1068,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40942928">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>

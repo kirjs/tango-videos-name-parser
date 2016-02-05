@@ -2,6 +2,7 @@ package com.tangovideos;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.ImmutableSet;
+import org.apache.commons.lang3.StringUtils;
 import org.json.JSONObject;
 
 import java.util.Map;
@@ -14,7 +15,9 @@ import java.util.function.Function;
 public class AppproachTwo {
     public static Set<String> fetchNames(JSONObject data) {
 
-        final String title = JSONHelper.getTitle(data);
+        String title = JSONHelper.getTitle(data);
+
+
 
         return ImmutableSet.of("Nito Garcia", "Elba Garcia");
     }
