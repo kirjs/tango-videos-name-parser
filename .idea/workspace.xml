@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11d99131-3102-42a1-8856-c27a2df89fd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/tangovideos/TestNameParsing.class" afterPath="$PROJECT_DIR$/target/test-classes/com/tangovideos/TestNameParsing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java" afterPath="$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tangovideos.TestNameParsing.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tangovideos.TestNameParsing.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.tangovideos.TestNameParsing.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tangovideos.TestNameParsing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" afterPath="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java" afterPath="$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java" />
     </list>
     <ignored path="my-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,12 +53,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6XCia7vEk3I.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6XCia7vEk3I.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cache/6XCia7vEk3I.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0686016">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppproachTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44168735">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,26 +103,6 @@
         <entry file="file://$PROJECT_DIR$/cache/4HYwJWt3kC8.json">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2f4hR4TJ-Wg.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/2f4hR4TJ-Wg.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5833335">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoDjiGsqBJU.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/MoDjiGsqBJU.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="32.5">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -162,11 +165,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/App.java" />
         <option value="$PROJECT_DIR$/cache/readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/YoutubeFetcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachOne.java" />
         <option value="$PROJECT_DIR$/cache/sbuqfkU2mTI.json" />
         <option value="$PROJECT_DIR$/src/test/java/com/tangovideos/TestNameParsing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java" />
       </list>
     </option>
   </component>
@@ -270,6 +273,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -730,7 +734,7 @@
       <created>1454543848744</created>
       <option name="number" value="Default" />
       <updated>1454543848744</updated>
-      <workItem from="1454543850127" duration="18275000" />
+      <workItem from="1454543850127" duration="18553000" />
     </task>
     <servers />
   </component>
@@ -767,7 +771,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18275000" />
+    <option name="totallyTimeSpent" value="18553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="24" width="1260" height="734" extended-state="0" />
@@ -898,16 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -941,17 +935,6 @@
         <state vertical-scroll-proportion="-4.0740743">
           <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="e#340#341#0" expanded="false" />
-            <element signature="e#408#409#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,9 +1043,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cache/6XCia7vEk3I.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0686016">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/AppproachTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangovideos/JSONHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44168735">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

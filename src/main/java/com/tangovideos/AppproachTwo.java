@@ -13,6 +13,9 @@ import java.util.function.Function;
  */
 public class AppproachTwo {
     public static Set<String> fetchNames(JSONObject data) {
+
+        final String title = JSONHelper.getTitle(data);
+
         return ImmutableSet.of("Nito Garcia", "Elba Garcia");
     }
 

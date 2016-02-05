@@ -16,12 +16,17 @@ public class JSONHelper {
     }
 
     public static String getTitle(JSONObject jsonObject) {
+        return getSnippetInfo(jsonObject, "title");
+    }
+    public static String getDescription(JSONObject jsonObject) {
+        return getSnippetInfo(jsonObject, "description");
+    }
+
+    private static String getSnippetInfo(JSONObject jsonObject, String description) {
         try {
-            return getSnippet(jsonObject).getString("title");
+            return getSnippet(jsonObject).getString(description);
         } catch (JSONException e) {
             throw new RuntimeException("fixme");
         }
-
-
     }
 }
