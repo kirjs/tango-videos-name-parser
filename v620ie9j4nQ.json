@@ -1,0 +1,83 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/9ujELoJn_WmBRhHSeRdnJP5GhYg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/STBCc1FGOAJmuMzTFsf-zRRI8ME\"",
+   "id": "v620ie9j4nQ",
+   "snippet": {
+    "publishedAt": "2008-09-28T09:51:30.000Z",
+    "channelId": "UCv4OwDvK9IC9VzeMLLYEZtg",
+    "title": "Nito & Elba - Desde el Alma (Osvaldo Pugliese) - Nora's Tango Week 2008",
+    "description": "Nito & Elba performing vals to Desde el Alma (Osvaldo Pugliese) at Nora's Tango Week 2008 Celebration Tango milonga in Clarion Hotel SFO, California, USA on July 12, 2008\r\n\r\nMore info about Nito & Elba:\r\nhttp://www.abctango.com.ar/nitoyelba/\r\n\r\nMore info about Nora's Tango Week:\r\nhttp://www.tangoweek.com\r\nhttp://tangoweek.blogspot.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v620ie9j4nQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v620ie9j4nQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v620ie9j4nQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "dancerfromsoul",
+    "tags": [
+     "Nito",
+     "Elba",
+     "Garcia",
+     "vals",
+     "tango",
+     "argentine",
+     "argentino",
+     "Nora's",
+     "Week",
+     "2008"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Nito & Elba - Desde el Alma (Osvaldo Pugliese) - Nora's Tango Week 2008",
+     "description": "Nito & Elba performing vals to Desde el Alma (Osvaldo Pugliese) at Nora's Tango Week 2008 Celebration Tango milonga in Clarion Hotel SFO, California, USA on July 12, 2008\r\n\r\nMore info about Nito & Elba:\r\nhttp://www.abctango.com.ar/nitoyelba/\r\n\r\nMore info about Nora's Tango Week:\r\nhttp://www.tangoweek.com\r\nhttp://tangoweek.blogspot.com"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false
+   },
+   "statistics": {
+    "viewCount": "2853",
+    "likeCount": "7",
+    "dislikeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/01l1psv",
+     "/m/0fsr7l8",
+     "/m/017_qw",
+     "/m/01qq2k",
+     "/m/03tl15"
+    ]
+   }
+  }
+ ]
+}

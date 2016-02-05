@@ -1,0 +1,87 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/iCQKQVScY60pxsPWgtvpB87Di3U\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/ZdrVCBf4OC_0H0vPkecYwNd_d1k\"",
+   "id": "6XCia7vEk3I",
+   "snippet": {
+    "publishedAt": "2016-02-02T23:19:17.000Z",
+    "channelId": "UCfIIUMmFYabWHn3WjmcB8DQ",
+    "title": "Nito y Elba Garcia, 2015 White Nights Tango festival",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6XCia7vEk3I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6XCia7vEk3I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6XCia7vEk3I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6XCia7vEk3I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6XCia7vEk3I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Юлия Зуева",
+    "tags": [
+     "tango",
+     "tangomania",
+     "white nights tango festival"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Nito y Elba Garcia, 2015 White Nights Tango festival",
+     "description": ""
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "12",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/05_3tc",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

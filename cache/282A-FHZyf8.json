@@ -1,0 +1,78 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/AIZnkWv53IOuQiI1mAFXqSdDOms\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/cLvqQFjgV-hVIdzc14oBLo0leJQ\"",
+   "id": "282A-FHZyf8",
+   "snippet": {
+    "publishedAt": "2007-07-28T14:55:47.000Z",
+    "channelId": "UCgsWNcxSRZICCx5b0hiV8fw",
+    "title": "Tango Sitges 2007 Nito y Elba",
+    "description": "Tango Sitges 2007 Nito y Elba",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/282A-FHZyf8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/282A-FHZyf8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/282A-FHZyf8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "7in1",
+    "tags": [
+     "tango",
+     "milonga",
+     "sitges",
+     "festival"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Tango Sitges 2007 Nito y Elba",
+     "description": "Tango Sitges 2007 Nito y Elba"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2433",
+    "likeCount": "6",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "4"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v"
+    ],
+    "relevantTopicIds": [
+     "/m/010nf4",
+     "/m/026bk",
+     "/m/05qjc",
+     "/m/02jjt",
+     "/m/05nj3v",
+     "/m/01ws5"
+    ]
+   }
+  }
+ ]
+}

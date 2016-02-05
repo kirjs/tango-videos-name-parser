@@ -1,0 +1,89 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/-uA9A7SXWzSkYk3tQfFLSSiDDNM\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"DsOZ7qVJA4mxdTxZeNzis6uE6ck/kYNp-MXMA_ZX8JCE53yEtBta024\"",
+   "id": "RfOM8pxafzg",
+   "snippet": {
+    "publishedAt": "2010-01-21T16:11:39.000Z",
+    "channelId": "UCesKCMsUty_c1EYHMF2q8cQ",
+    "title": "Best Tango Valz Sebastian Arce and Mariana Montes",
+    "description": "Impovisation Show during workshops in Sao Paulo , october 2009\r\nPorbre Flor\r\n(Letra : Víctor Feliciano Spíndola\r\nMúsica : Luis Mottolese)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RfOM8pxafzg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RfOM8pxafzg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RfOM8pxafzg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "sofiya seminskaya",
+    "tags": [
+     "valz",
+     "argentine",
+     "tango",
+     "show",
+     "Arce",
+     "Montes",
+     "вальс",
+     "танго",
+     "шоу",
+     "бал",
+     "valse",
+     "pobre",
+     "flor",
+     "dance",
+     "couple",
+     "social",
+     "impovisation"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Best Tango Valz Sebastian Arce and Mariana Montes",
+     "description": "Impovisation Show during workshops in Sao Paulo , october 2009\r\nPorbre Flor\r\n(Letra : Víctor Feliciano Spíndola\r\nMúsica : Luis Mottolese)"
+    }
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "253899",
+    "likeCount": "591",
+    "dislikeCount": "31",
+    "favoriteCount": "0",
+    "commentCount": "33"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01m_5v",
+     "/m/0j_1z7g",
+     "/m/07xh4y"
+    ],
+    "relevantTopicIds": [
+     "/m/03tl15",
+     "/m/081js"
+    ]
+   }
+  }
+ ]
+}
