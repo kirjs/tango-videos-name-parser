@@ -37,11 +37,11 @@ public class TestNameParsing {
                 .put("0wFi7aUz9Qk", ImmutableSet.of("Maria Filali", "Gianpiero Galdi"))
                 .put("Mr3ChIzv5bI", ImmutableSet.of("Maria Filali", "Gianpiero Galdi"))
                 .put("X9CJMkNlEUc", ImmutableSet.of("Maria Filali", "Gianpiero Galdi"))
-                .put("vvzLbJrOnmc", ImmutableSet.of("Sebastian Jimenez", "Maria Ines Bogado"))
-                .put("wi9Mp1RYjyI", ImmutableSet.of("Sebastian Jimenez", "Maria Ines Bogado"))
-                .put("_kJD7txuWrA", ImmutableSet.of("Sebastian Jimenez", "Maria Ines Bogado"))
-                .put("4ovYgzpqi14", ImmutableSet.of("Sebastian Jimenez", "Maria Ines Bogado", "Javier Rodriguez", "Noelia Barsi"))
-                .put("rgnBgLXK2xg", ImmutableSet.of("Maria del Carmen Romero", "Jorge Dispari"))
+                .put("vvzLbJrOnmc", ImmutableSet.of("Sebastian Jimenez", "Maria Bogado"))
+                .put("wi9Mp1RYjyI", ImmutableSet.of("Sebastian Jimenez", "Maria Bogado"))
+                .put("_kJD7txuWrA", ImmutableSet.of("Sebastian Jimenez", "Maria Bogado"))
+                .put("4ovYgzpqi14", ImmutableSet.of("Sebastian Jimenez", "Maria Bogado", "Javier Rodriguez", "Noelia Barsi"))
+                .put("rgnBgLXK2xg", ImmutableSet.of("Maria Romero", "Jorge Dispari"))
                 // Names in the description
                 .put("ACdCdvamIO4", ImmutableSet.of("Kalganova Eleonora", "Michael Nadtochi"))
                 .put("2f4hR4TJ-Wg", ImmutableSet.of("Kalganova Eleonora", "Michael Nadtochi"))
@@ -64,7 +64,7 @@ public class TestNameParsing {
                 .put("K4R-uoldB3g", ImmutableSet.of("Mariano Frumboli", "Juana Sepulveda"))
                 .put("A3IngDjc8nw", ImmutableSet.of("Mariano Frumboli", "Juana Sepulveda"))
                 .put("DKtQyoahE98", ImmutableSet.of("Sebastian Achaval", "Roxana Suarez"))
-                .put("FTlwZ_3cAQs", ImmutableSet.of("Diego Riemer", "Natalia Cristobal Rive"))
+                .put("FTlwZ_3cAQs", ImmutableSet.of("Diego Riemer", "Natalia Rive"))
                 .build();
 
         data = expected.keySet()
