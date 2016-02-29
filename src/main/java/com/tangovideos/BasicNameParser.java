@@ -13,14 +13,11 @@ public class BasicNameParser implements NameExtractor{
 
     private static Pattern dancer = Pattern.compile("([A-Z][a-z]+ )?([A-Za-z]+? |[\"“][A-Za-z ]+[\"”] )?([A-Za-z]+? |[\"“][A-Za-z ]+[\"”] )?([A-Z][a-z]+) (and|y|&|e|et|Y) ([A-Z][a-z]+)( [\"]?[A-Z][a-z]+[\"]?)?( [A-Z][a-z]+)?");
 
-    public BasicNameParser(Set<String> names) {
+    public BasicNameParser(Set<Set<String>> names) {
 
     }
 
     public static Set<String> parseString(String string) {
-        if(string == null){
-            System.out.println("ops");
-        }
         final Matcher matcher = dancer.matcher(string);
         if (matcher.find()) {
             final String group = matcher.group(0);
@@ -95,7 +92,7 @@ public class BasicNameParser implements NameExtractor{
 
     @Override
     public Set<String> extractNames(VideoAndDancer videoAndDancer) {
-        return extractNames(videoAndDancer.getTitle(), videoAndDancer.getDescription());
+         return extractNames(videoAndDancer.getTitle(), videoAndDancer.getDescription());
     }
 
     @Override

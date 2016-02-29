@@ -39,10 +39,11 @@ public class TestNameParsing {
         }
 
 
-        final Set<String> names = videosAndDancers.stream().map(VideoAndDancer::getDancers).flatMap(Set::stream).collect(Collectors.toSet());
+        final Set<Set<String>> names = videosAndDancers.stream().map(VideoAndDancer::getDancers).collect(Collectors.toSet());
         List<NameExtractor> extractors = ImmutableList.of(
                 new ApproachOne(names),
-                new BasicNameParser(names)
+                new BasicNameParser(names),
+                new NameAwareNameParser(names)
         );
 
         System.out.println(extractors.stream()
@@ -73,6 +74,7 @@ public class TestNameParsing {
 
         System.out.println(result);
         System.out.println(output);
+        System.out.println(result);
     }
 
     public String padApproach(String s) {

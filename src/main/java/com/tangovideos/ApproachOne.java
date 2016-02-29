@@ -5,7 +5,7 @@ import com.google.common.collect.ImmutableSet;
 import java.util.Set;
 
 public class ApproachOne implements  NameExtractor {
-    public ApproachOne(Set<String> dancers){
+    public ApproachOne(Set<Set<String>> dancers){
 
     }
 
