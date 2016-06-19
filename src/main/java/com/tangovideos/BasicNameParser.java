@@ -17,9 +17,11 @@ public class BasicNameParser implements NameExtractor{
 
     }
 
+
     public static Set<String> parseString(String string) {
         final Matcher matcher = dancer.matcher(string);
         if (matcher.find()) {
+
             final String group = matcher.group(0);
             String dancer1Name = matcher.group(1);
             String dancerNickname = matcher.group(3);
